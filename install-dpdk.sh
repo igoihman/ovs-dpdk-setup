@@ -1,4 +1,4 @@
-#/bin/bash
+#! /bin/bash
 
 cd /usr/src/
 wget http://dpdk.org/browse/dpdk/snapshot/dpdk-16.07.zip
